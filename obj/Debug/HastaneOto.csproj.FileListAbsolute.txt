@@ -1,0 +1,15 @@
+C:\Users\Çağlar\source\repos\HastaneOto\bin\Debug\HastaneOto.exe
+C:\Users\Çağlar\source\repos\HastaneOto\bin\Debug\HastaneOto.pdb
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.csproj.AssemblyReference.cache
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.Properties.Resources.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.csproj.GenerateResource.cache
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.csproj.CoreCompileInputs.cache
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.exe
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.pdb
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.Form1.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.DoktorSayfasi.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.DoktorGiris.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.DoktorKayit.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.SekreterSayfasi.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.SekreterGirisi.resources
+C:\Users\Çağlar\source\repos\HastaneOto\obj\Debug\HastaneOto.Doktor.DoktorSifreUnuttum.resources
